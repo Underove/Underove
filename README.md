@@ -1,19 +1,10 @@
-<h1 align="center">Sangwoo Kim</h1>
+# Sangwoo Kim
 
-<p align="center">
-  <b>Computer Vision · Agentic AI</b><br>
-  Undergraduate @ Chung-Ang University
-</p>
+**Computer Vision · Agentic AI** — Undergraduate @ Chung-Ang University
 
-<p align="center">
-  I build AI that leaves the notebook — models tuned to run and make decisions<br>
-  on edge devices and in real-world systems.
-</p>
+I build AI that leaves the notebook — models tuned to run and make decisions on edge devices and in real-world systems.
 
-<p align="center">
-  <a href="https://underove.github.io"><b>🌐 Portfolio</b></a> &nbsp;·&nbsp;
-  <a href="mailto:swjohn0121@gmail.com"><b>📫 Email</b></a>
-</p>
+[🌐 Portfolio](https://underove.github.io) · [📫 Email](mailto:swjohn0121@gmail.com)
 
 ---
 
@@ -46,4 +37,4 @@ Most of my projects grew out of **ToBig's (투빅스)**, an AI & big-data studen
 | **[Curat3R](https://github.com/Underove/Curat3R)** | Single-image 3D reconstruction for digital archiving — "build your own 3D museum" (ToBig's 21st Conference) |
 | **[Pi-FiRi](https://github.com/Underove/Pi-FIRI)** | Intelligent fire-detection robot pairing a Raspberry Pi with an LLM for autonomous patrol and response (ToBig's 20th Conference) |
 
-<p align="center"><sub>More projects and awards on my <a href="https://underove.github.io">portfolio →</a></sub></p>
+More projects and awards on my [portfolio →](https://underove.github.io)
