@@ -9,7 +9,7 @@
 <!-- About Me -->
 ### 🌱 More About Me
 
-🔬 I like AI that **acts on real hardware and edge devices**, grounded in a hands-on background in **drone & satellite attitude control**.  
+🔬 My roots are in hardware — **drone flight control and satellite attitude systems** — which taught me to respect latency, constraints, and things that break in the real world. I carry that mindset into **Computer Vision & Agentic AI**.  
 👾 Most of my work grew out of **ToBig's**, an AI & big-data analysis society, where I served as **23rd-cohort operations lead** — running sessions, authoring datathon problems, and shipping team projects end to end.
 
 
