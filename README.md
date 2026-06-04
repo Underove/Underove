@@ -7,7 +7,7 @@
 
 
 <!-- About Me -->
-### 🌱 A Little More About Me
+### 🌱 More About Me
 
 🔬 I love building AI that **makes decisions on edge devices and real hardware**, not just in notebooks — my CV/AI work sits on a hands-on background in **drone & satellite attitude control**.
 👾 Most of my projects grew out of **ToBig's (투빅스)**, an AI & big-data society, where I was the **23rd-cohort operations lead** — running sessions, authoring datathon problems, and shipping team projects end to end.
@@ -21,11 +21,3 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Plotly](https://img.shields.io/badge/plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-
-
-<!-- Highlights -->
-### 🏆 Highlights
-🥇 **LG Aimers 7th** — National **Top 5 / ~800 teams** (Phase 3 offline hackathon, time-series forecasting)  
-🥇 **MixUP AI Datathon** — Final **Top 5** (steel-quality defect detection), later **organized & authored** the 2nd edition  
-📈 **DACON Bias-A-Thon <Track 2>** — **+60%** on the target metric for LLM bias mitigation  
-🛰️ **CAU ALCP** — University Excellence Award (1-axis satellite attitude control)
