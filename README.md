@@ -10,7 +10,7 @@
 ### 🌱 More About Me
 
 🔬 I like AI that **acts on real hardware and edge devices**, grounded in a hands-on background in **drone & satellite attitude control**.  
-👾 Most of my work grew out of **ToBig's (투빅스)**, an AI & big-data society, where I served as **23rd-cohort operations lead** — running sessions, authoring datathon problems, and shipping team projects end to end.
+👾 Most of my work grew out of **ToBig's**, an AI & big-data Analysis society, where I served as **23rd-cohort operations lead** — running sessions, authoring datathon problems, and shipping team projects end to end.
 
 
 <!-- Familiar With -->
