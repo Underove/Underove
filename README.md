@@ -1,7 +1,7 @@
 <!-- Header -->
 <h1>Hi there 👋, I'm Sangwoo</h1>
 
-🎓 BS candidate @ Chung-Ang University — double major in Civil & Environmental and Electrical & Electronic Engineering (expected Aug 2026)  
+🎓 B.S candidate @ Chung-Ang University — double major in Civil & Environmental and Electrical & Electronic Engineering (expected Aug 2026)  
 🤖 Focused on **Computer Vision** & **Agentic AI**, with a soft spot for models that run on real hardware  
 🌐 Portfolio: [underove.github.io](https://underove.github.io/)
 
