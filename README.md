@@ -1,8 +1,8 @@
 <!-- Header -->
 <h1>Hi there 👋, I'm Sangwoo</h1>
 
-🎓 BS candidate in Civil & Environmental and Electrical & Electronic Engineering @ Chung-Ang University  
-🤖 Into **Computer Vision** & **Agentic AI** — models that leave the notebook and run in the real world  
+🎓 BS candidate @ Chung-Ang University — double major in Civil & Environmental and Electrical & Electronic Engineering (expected Aug 2026)  
+🤖 Focused on **Computer Vision** & **Agentic AI**, with a soft spot for models that run on real hardware  
 🌐 Portfolio: [underove.github.io](https://underove.github.io/)
 
 
@@ -10,7 +10,7 @@
 ### 🌱 More About Me
 
 🔬 I like AI that **acts on real hardware and edge devices**, grounded in a hands-on background in **drone & satellite attitude control**.  
-👾 Most of my work grew out of **ToBig's**, an AI & big-data Analysis society, where I served as **23rd-cohort operations lead** — running sessions, authoring datathon problems, and shipping team projects end to end.
+👾 Most of my work grew out of **ToBig's**, an AI & big-data analysis society, where I served as **23rd-cohort operations lead** — running sessions, authoring datathon problems, and shipping team projects end to end.
 
 
 <!-- Familiar With -->
