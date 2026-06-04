@@ -27,7 +27,7 @@
 ### 🏆 Highlights
 🥇 **LG Aimers 7th** — National **Top 5 / ~800 teams** (Phase 3 offline hackathon, time-series forecasting)  
 🥇 **MixUP AI Datathon** — Final **Top 5** (steel-quality defect detection), later **organized & authored** the 2nd edition  
-📈 **DACON Bias-A-Thon** — **+60%** on the target metric for LLM bias mitigation  
+📈 **DACON Bias-A-Thon <Track 2>** — **+60%** on the target metric for LLM bias mitigation  
 🛰️ **CAU ALCP** — University Excellence Award (1-axis satellite attitude control)
 
 
@@ -36,8 +36,3 @@
 🚚 **[warehouse-delay-dashboard](https://github.com/Underove/warehouse-delay-dashboard)** — DACON shipment-delay prediction (top 11%). A 4-model ensemble turned into an ops tool: *predict → diagnose → simulate → act* with SHAP + what-if simulation  
 🏛️ **[Curat3R](https://github.com/Underove/Curat3R)** — single-image 3D reconstruction for digital archiving, "build your own 3D museum" (ToBig's 21st Conference)  
 🔥 **[Pi-FiRi](https://github.com/Underove/Pi-FIRI)** — fire-detection robot pairing a Raspberry Pi with an LLM for autonomous patrol & response (ToBig's 20th Conference)
-
-
-<!-- Contact -->
-### 📫 Reach Me
-📧 swjohn0121@gmail.com &nbsp;·&nbsp; 🌐 [Portfolio](https://underove.github.io/)
