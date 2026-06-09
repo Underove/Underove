@@ -2,7 +2,7 @@
 <h1>Hi there 👋, I'm Sangwoo</h1>
 
 🎓 B.S. candidate @ Chung-Ang University — double major in Civil & Environmental and Electrical & Electronic Engineering (expected Aug 2026)  
-🔭 Interested in **3D Reconstruction**, **Vision-Language Models**, and **Trajectory Prediction** — with a soft spot for models that run on real hardware  
+🔭 Interested in **Computer Vision** & **reliable Vision-Language models** — 3D reconstruction, model reasoning, and a soft spot for systems that run on real hardware
 🌐 Portfolio: [underove.github.io](https://underove.github.io/)
 
 <!-- About Me -->
