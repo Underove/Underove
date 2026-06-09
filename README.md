@@ -1,17 +1,18 @@
 <!-- Header -->
 <h1>Hi there 👋, I'm Sangwoo</h1>
 
-🎓 B.S candidate @ Chung-Ang University — double major in Civil & Environmental and Electrical & Electronic Engineering (expected Aug 2026)  
-🤖 Focused on **Computer Vision** & **Agentic AI**, with a soft spot for models that run on real hardware  
+🎓 B.S. candidate @ Chung-Ang University — double major in Civil & Environmental and Electrical & Electronic Engineering (expected Aug 2026)  
+🔭 Interested in **3D Reconstruction**, **Vision-Language Models**, and **Trajectory Prediction** — with a soft spot for models that run on real hardware  
 🌐 Portfolio: [underove.github.io](https://underove.github.io/)
-
 
 <!-- About Me -->
 ### 🌱 More About Me
 
-🔬 My roots are in hardware — **drone flight control & satellite attitude systems** — which taught me to respect latency, constraints, and things that break in the real world. I carry that mindset into **Computer Vision & Agentic AI**.  
-👾 Most of my work grew out of **ToBig's**, an AI & big-data analysis society, where I served as **23rd-cohort operations lead** — running sessions, authoring datathon problems, and shipping team projects end to end.
+🔬 My roots are in hardware — **drone flight control & satellite attitude systems** — which taught me to respect latency, constraints, and things that break in the real world. I carry that mindset into **3D vision and language-model reasoning**.  
 
+🧩 Recent work: **Curat3R** (single-image 3D reconstruction) and **Pi-FiRi** (a vision + LLM robot with hallucination-controlled reporting).  
+
+👾 Most of my work grew out of **ToBig's**, an AI & big-data analysis society, where I served as **23rd-cohort operations lead** — running sessions, authoring datathon problems, and shipping team projects end to end.
 
 <!-- Familiar With -->
 ### 🛠️ Familiar With
