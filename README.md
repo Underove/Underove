@@ -12,7 +12,7 @@
 
 🧩 Recent work: **Curat3R** (single-image 3D reconstruction) and **Pi-FiRi** (a vision + LLM robot with hallucination-controlled reporting).  
 
-👾 Most of my work grew out of **ToBig's**, an AI & big-data analysis society, where I served as **23rd-cohort operations lead** — running sessions, authoring datathon problems, and shipping team projects end to end.
+👾 Most of my work grew out of **ToBig's**, an AI & Big-data analysis society, where I served as **23rd-cohort operations lead** — running sessions, authoring datathon problems, and shipping team projects end to end.
 
 <!-- Familiar With -->
 ### 🛠️ Familiar With
